@@ -1,0 +1,11 @@
+{
+    "name": "pcbman43/landing-page",
+    "description": "Simple PHP landing page for users to upload their typeracer links.",
+    "type": "project",
+    "require": {
+        "symfony/panther": "^2.1"
+    },
+    "require-dev": {
+        "dbrekelmans/bdi": "^1.1"
+    }
+}
